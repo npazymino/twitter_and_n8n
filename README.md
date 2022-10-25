@@ -1,13 +1,13 @@
-Music and n8n
-My n8n automations for sharing, organizing and enjoying music.
+Twitter and n8n
+My n8n automations for managing your Twitter account.
 
 Apache 2.0 License LinkedIn
 
-Music and N8N Automation Flows
-This set of N8N flows will let you share, organize and enjoy your music.
+Twitter and N8N Automation Flows
+This set of N8N flows will let you manage your Twitter account.
 Table of Contents
 About The Project
-The project consists of a set of flows that will let you organize, share and enjoy your music. The flows were created in n8n, an open source automation tool.
+The project consists of a set of flows that will let you manage your Twitter account. The flows were created in n8n, an open source automation tool.
 
 (back to top)
 
@@ -28,9 +28,9 @@ YouTube API credentials
 Twitter API credentials
 Installation
 Install n8n at https://n8n.io
+Get a free API Key from Twitter https://twitter.com
 Get a free API Key from Spotify https://spotify.com
 Get a free API Key from YouTube https://youtube.com
-Get a free API Key from Twitter https://twitter.com
 Copy the JSON files and open them in n8n (desktop/cloud).
 Customize with own credentials and playlist URIs/IDs.
 (back to top)
@@ -68,6 +68,6 @@ Distributed under the Apache 2.0 License. See LICENSE.txt for more information.
 Contact
 Your Name - @nelo_1980 - npazymino@gmail.com
 
-Project Link: /npazymino/music_and_n8n
+Project Link: /npazymino/twitter_and_n8n
 
 (back to top)
